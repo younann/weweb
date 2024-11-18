@@ -9,7 +9,7 @@ const testimonials = [
     name: "Sarah Johnson",
     role: "CEO, TechStart",
     content:
-      "Working with PixelPerfect was a game-changer for our business. They delivered a beautiful website that exceeded our expectations.",
+      "Working with WeWeb was a game-changer for our business. They delivered a beautiful website that exceeded our expectations.",
     rating: 5,
   },
   {

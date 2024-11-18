@@ -6,7 +6,7 @@ export function Footer() {
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-lg font-semibold mb-4">PixelPerfect</h3>
+            <h3 className="text-lg font-semibold mb-4">WeWeb</h3>
             <p className="text-muted-foreground">
               Creating beautiful digital experiences that drive results.
             </p>
@@ -94,7 +94,7 @@ export function Footer() {
           </div>
         </div>
         <div className="border-t mt-12 pt-8 text-center text-muted-foreground">
-          <p>&copy; 2024 PixelPerfect. All rights reserved.</p>
+          <p>&copy; 2024 WeWeb. All rights reserved.</p>
         </div>
       </div>
     </footer>
